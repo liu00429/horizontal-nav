@@ -20,7 +20,7 @@ body {
 
 h1 {
   text-align: center;
-  font-family: Bevan;
+  font-family: Bevan, sans-serif;
   font-size: 1em;
   color: #fff;
 }
